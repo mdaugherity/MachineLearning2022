@@ -1,0 +1,6 @@
+Name,pclass,gender,age,sibsp,parch,fare
+Isla,2,0,21,3,2,512
+Beth,1,0,22,1,2,215
+Noah,1,1,56,27,1,279
+Josh,3,1,6,0,2,3412
+Ethan,2,1,19,7,2,0
