@@ -21,7 +21,7 @@ Lecture notes are posted on canvas for now.
 
 ## Classifier Deep Dives
 * [Tutorial 8 - Nearest Neighbors](Tutorial_8_Nearest_Neighbors.ipynb): How to use sklearn's kNN classifier
-* [Tutoiral 9 - Decision Trees](Tutorial_9_Decision_Trees.ipynb): How to use DecisionTreeClassifier
+* [Tutorial 9 - Decision Trees](Tutorial_9_Decision_Trees.ipynb): How to use DecisionTreeClassifier
 * [Homework 3 - Trees on the Titanic](HW3_Trees_on_the_Titanic.ipynb): Find out who sinks and who swims on real Titanic data
 * [Tutorial 10 - Bayesian Classifier](Tutorial_10_Bayesian_Classifier.ipynb): Using Kernel (Probability Density) Estimation and Bayesian statistics as a classifier!
 * [Tutorial 11 - Digits Dataset](Tutorial_11_Digits_Dataset.ipynb): Exploring the digits dataset for HW4
