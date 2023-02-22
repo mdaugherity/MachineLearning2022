@@ -26,4 +26,5 @@ Lecture notes are posted on canvas for now.
 * [Tutorial 10 - Bayesian Classifier](Tutorial_10_Bayesian_Classifier.ipynb): Using Kernel (Probability Density) Estimation and Bayesian statistics as a classifier!
 * [Tutorial 11 - Digits Dataset](Tutorial_11_Digits_Dataset.ipynb): Exploring the digits dataset for HW4
 * [Homework 4 - Digits Throwdown](HW4_Digits_Throwdown.ipynb): Show off each classifier's special tricks on the digits dataset
+* [Tutorial 12 - Neural Networks](Tutorial_12_Neural_Networks.ipynb): Finally, time to play with artificial brains 
 
