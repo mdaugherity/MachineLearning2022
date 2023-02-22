@@ -19,4 +19,11 @@ Lecture notes are posted on canvas for now.
 * [Tutorial 6 - Tuning and Evaluation](Tutorial_6_Tuning_and_Evaluation.ipynb): How to tune and evaluate performance of a classifier
 * [Tutorial 7 - Data Transforms](Tutorial_7_Data_Transforms.ipynb): The unskippable step of scaling data
 
+## Classifier Deep Dives
+* [Tutorial 8 - Nearest Neighbors](Tutorial_8_Nearest_Neighbors.ipynb): How to use sklearn's kNN classifier
+* [Tutoiral 9 - Decision Trees](Tutorial_9_Decision_Trees.ipynb): How to use DecisionTreeClassifier
+* [Homework 3 - Trees on the Titanic](HW3_Trees_on_the_Titanic.ipynb): Find out who sinks and who swims on real Titanic data
+* [Tutorial 10 - Bayesian Classifier(Tutorial_10_Bayesian_Classifier.ipynb): Using Kernel (Probability Density) Estimation and Bayesian statistics as a classifier!
+* [Tutorial 11 - Digits Dataset](Tutorial_11_Digits_Dataset.ipynb): Exploring the digits dataset for HW4
+* [Homework 4 - Digits Throwdown](HW4_Digits_Throwdown.ipynb): Show off each classifier's special tricks on the digits dataset
 
